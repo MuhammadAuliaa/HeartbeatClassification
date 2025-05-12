@@ -1,0 +1,4 @@
+model:
+- ANN
+- LSTM
+- Decision Tree
